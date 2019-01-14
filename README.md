@@ -25,15 +25,15 @@ For now, everyone uses NPM, right? So what if could we create an NPM backend ser
 
 The goal of this topic is to develop an enhanced version of [APM serve](https://github.com/aragon/apm-serve) complying to the [NPM Registry API](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md).
 
-### Resources
 
+### Resources
 
 
 ## Process
 This hackathon will start remotely on January, xxth 2019 and end up on site January, 30th 2019 - on the last day of [Aracon](https://aracon.one).
 
 
-To meet potential team members, chat about projects, or get help with your code and the ColonyJS library, head over to the  [the colonyHackathon Gitter](https://gitter.im/ColonyHackathon/Lobby).
+To meet potential team members and chat about projects head over to the [aragon chat](https://aragon.chat/).
 
 
 ## Submission Guidelines
@@ -85,7 +85,7 @@ Submissions will be graded across the following equally-weighted criteria:
 3. Difficulty
 4. Design
 
-Info about our super-awesome judges panel can be found on [the hackathon website](https://colony.io/hackathon).
+Info about our super-awesome judges panel can be found on [the hackathon website]().
 
 ## Prizes
 
