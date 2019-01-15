@@ -19,7 +19,7 @@
 
 # What is APM?
 
-**APM** stands for **Aragon Package Manager**. It is a decentralized package manager designed to handle the upgradeability of smart contracts as well as arbitrary data blobs. The best way to learn about APM is to read this [article](http://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/) and browse the [doc](https://hack.aragon.org/docs/apm.html).
+**APM** stands for **Aragon Package Manager**. It is a decentralized package manager designed to handle the upgradeability of smart contracts as well as arbitrary data blobs. The best way to learn about APM is to read [this](http://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/) and [this](https://blog.aragon.org/deploying-and-distributing-aragon-core-11e70cbc9b50/) articles and browse the [doc](https://hack.aragon.org/docs/apm.html).
 
 # What is this hackathon about?
 
