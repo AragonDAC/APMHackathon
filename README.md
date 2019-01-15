@@ -6,7 +6,7 @@
   <br/>
 </h1>
 
-<h4 align="center">Welcome to the first APM Hackathon.</h4>
+<h4 align="center">Welcome to the first APM Hackathon</h4>
 
 <p align="center">
   <a href="#what-is-apm">What is APM?</a> •
@@ -33,8 +33,8 @@ All APM registries and repositories related data are stored either on-chain or o
 
 ### Ressources
 
-- [Aragon Design Guideline](https://wiki.aragon.org/design/)
-- [GraphProtocol Aragon Subgraph](https://github.com/graphprotocol/aragon-subgraph). TheGraph allows you to index and search through Ethereum events and IPFS data!
+- [Aragon Design Guideline](https://wiki.aragon.org/design/). In case you need some inspirations regarding your design.
+- [GraphProtocol Aragon Subgraph](https://github.com/graphprotocol/aragon-subgraph). TheGraph allows you to index and search through Ethereum events and IPFS data. It may (or may not) be a good starting point to offer decentralized searchability to APM registries.
 
 ## T1 - NPM backend
 
@@ -44,7 +44,7 @@ For now, everyone uses NPM, right? So what if could we create an NPM backend ser
 ### Resources
 
 - [APM serve](https://github.com/aragon/apm-serve). A Web 2.0 server for Web 3.0 APM hosted dApps and packages.
-- [NPM Registry API](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md).
+- [NPM Registry API](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md). The API any NPM registry must comply to.
 
 
 # Process
@@ -61,21 +61,19 @@ The best way to get started is to come and chat on the `#hackathon` channel of [
 
 ### 2. Create an issue
 
-Once you know what you wanna work on - and with who you wanna work on - open a new issue in this repository. We have created a couple of issue templates so it should be pretty straightforward: just let us know the topic you relate to and draft a quick summary of the idea you wanna work on. Use this issue to coordinate with other participants, request for help / teammates, etc. Also feel free to check out the other issues to see if there are participants who wanna to work on the same things.
+Once you know what you wanna work on - and with who you wanna work on - open a new issue in this repository. We have created a couple of issue templates so it should be pretty straightforward: just choose the `Topic 0 - UI` or `Topic 1 - NPM` template (depending on what you wanna work on) and draft a quick summary of the idea you wanna work on. Use this issue to coordinate with other participants, request for help / teammates, etc. We also added a convenient `request for hackers` label. Feel free to use if you're looking for teammates and check the other issues to see if there are other teams there looking for people to work with.
 
 ### 3. Buidl!
 
-That's when it comes to stop sleeping and start buidling. Use the issue you created in step 2 to let others know where your project lives. An remember that whatever you are working on your project should include an **Open Source License** of [some form](https://opensource.org/licenses), and should be accessible to everyone after the submission deadline.
+That's when it comes to stop sleeping and start buidling. Use the issue you created in step 2 to let others know where your project lives. And remember that whatever you are working on, your project should include an **Open Source License** of [some form](https://opensource.org/licenses), and be accessible to everyone after the submission deadline.
 
 ### 4. Gather at Aracon
 
-We will have a entire room dedicated to this hackathon on the first day of [Aracon](https://aracon.one): January, 30th 2019. That's why we require that _at least one person per team actually attend Aracon to 'represent' its team there_. Come here and gather we your team, use that last f2f day to polish your project and make it ready for submission.
+We will have a entire room dedicated to this hackathon on the first day of [Aracon](https://aracon.one): January, 30th 2019. That's why we require that _at least one person per team actually attend Aracon to 'represent' its team there_. Come here and gather with your team: use that f2f day to polish your project and make it ready for submission.
 
 ### 5. Fork and PR
 
-Once you're ready, fork this repository, add a markdown file following [this template](https://github.com/AragonDAC/APMHackathon/blob/master/submissions/exampleProject) inside the `submissions` folder, and open a PR. These PRs must be opened before **January 30, 00:00 CET** to leave our jury enough time to review everyone's code.
-
-*Opening a Pull Request establishes your project as an "official" submission*
+Once you're ready, fork this repository, add a markdown file following [this template](https://github.com/AragonDAC/APMHackathon/blob/master/submissions/exampleProject.md) inside the `submissions` folder, and open a PR. These PRs must be opened before **January 30, 00:00 CET** to leave our jury enough time to review everyone's code. *Opening a Pull Request establishes your project as an "official" submission.*
 
 ### 5. Enjoy the rest of Aracon
 
@@ -90,7 +88,7 @@ You can now breeze and go back to an (almost) normal life. Enjoy the wonderful [
 **January, 31th.** Winners Announced.
 
 
-## Judges and Scoring
+## Scoring
 
 Submissions will be graded across the following equally-weighted criteria:
 
@@ -101,7 +99,7 @@ Submissions will be graded across the following equally-weighted criteria:
 
 ## Prizes per topic
 
-**Winner.** 1000 ANT ???
+**Winners.** 1000 ANT ???
 
 **Runners up.** ???
 
