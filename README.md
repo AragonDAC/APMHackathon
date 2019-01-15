@@ -57,7 +57,7 @@ Here’s how it works.
 
 ### 1. Come and chat
 
-The best way to get started is to come and chat on the `#hackathon` channel of [Aragon's chat](https://aragon.chat/channel/apm-hackathon). Ask any question you have to the team, discuss the ideas you wanna hack on with the community, coordinate to gather as a team, etc.
+The best way to get started is to come and chat on the `#apm-hackathon` channel of [Aragon's chat](https://aragon.chat/channel/apm-hackathon). Ask any question you have to the team, discuss the ideas you wanna hack on with the community, coordinate to gather as a team, etc.
 
 ### 2. Create an issue
 
