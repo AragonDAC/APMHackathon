@@ -1,9 +1,10 @@
 # Example Project
 
 ## Project Description
-This is a project that solves a real problem in the decentralized ecosystem: Lack of example projects for the Aragon Hackathon.
+This is a project that solves a real problem in the decentralized ecosystem: the lack of example projects for the Aragon Hackathon.
 
 ### Issue
+
 This closes the issue APMHackathon#1
 
 ### Repository
@@ -11,10 +12,12 @@ This closes the issue APMHackathon#1
 The project code lives at https://github.com/username_or_organization/exampleProject
 
 ### Final Commit
+
 The final commit of our project for submission is:
 https://github.com/username_or_organization/exampleProject/commit/793fafb21efbbee0620d74381dd11d3f25938726
 
 ### Team
+
 The project was built with contributions from:
 
 - Aragon (@aragon on GitHub, aragon@aragon)
