@@ -1,6 +1,6 @@
 <h1 align="center">
   <br/>
-  <img src=".github/aragonpm.png" alt="APM" width="200">
+  <img src=".github/aragonpm.png" alt="APM">
   <br/>
   APM Hackathon
   <br/>
