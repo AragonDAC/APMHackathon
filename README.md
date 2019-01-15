@@ -2,14 +2,14 @@
   <br/>
   <img src=".github/aragonpm.png" alt="APM">
   <br/>
-  APM Hackathon
+  aragonPM Hackathon
   <br/>
 </h1>
 
-<h4 align="center">Welcome to the first APM Hackathon</h4>
+<h4 align="center">Welcome to the first aragonPM Hackathon</h4>
 
 <p align="center">
-  <a href="#what-is-apm">What is APM?</a> •
+  <a href="#what-is-aragonpm">What is aragonPM?</a> •
   <a href="#what-is-this-hackathon-about">What is this hackathon about?</a> •
   <a href="#process">Process</a> •
   <a href="#thanks">Thanks</a>
@@ -17,33 +17,33 @@
 
 
 
-# What is APM?
+# What is aragonPM?
 
-**APM** stands for **Aragon Package Manager**. It is a decentralized package manager designed to handle the upgradeability of smart contracts as well as arbitrary data blobs. The best way to learn about APM is to read [this](http://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/) and [this](https://blog.aragon.org/deploying-and-distributing-aragon-core-11e70cbc9b50/) articles and browse the [doc](https://hack.aragon.org/docs/apm.html).
+**aragonPM** stands for **Aragon Package Manager**. It is a decentralized package manager designed to handle the upgradeability of smart contracts as well as arbitrary data blobs. The best way to learn about aragonPM is to read [this](http://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/) and [this](https://blog.aragon.org/deploying-and-distributing-aragon-core-11e70cbc9b50/) articles and browse the [doc](https://hack.aragon.org/docs/apm.html).
 
 # What is this hackathon about?
 
 Most of us rely on NPM for everything we work on. NPM is far from being perfect, though: centralized infrastructure, security issues, lack of incentivization, etc.
 
-The goal of this hackathon is to spawn a series of initiatives to enhance APM to the point where it become a serious - and backward compatible - alternative to NPM. As a first step toward this goal this hackathon will focus on two topics.
+The goal of this hackathon is to spawn a series of initiatives to enhance aragonPM to the point where it become a serious - and backward compatible - alternative to NPM. As a first step toward this goal this hackathon will focus on two topics.
 
-## T0 - APM User Interface
+## T0 - aragonPM User Interface
 
-All APM registries and repositories related data are stored either on-chain or over IPFS. That's great for decentralization but not so great for the end user experience. The goal of this topic is to develop end-users interfaces allowing to search through APM registries and browse packages versions. Let's build the [npmjs.com](https://npmjs.com) of APM!
+All aragonPM registries and repositories related data are stored either on-chain or over IPFS. That's great for decentralization but not so great for the end user experience. The goal of this topic is to develop end-users interfaces allowing to search through aragonPM registries and browse packages versions. Let's build the [npmjs.com](https://npmjs.com) of aragonPM!
 
 ### Ressources
 
 - [Aragon Design Guideline](https://wiki.aragon.org/design/). In case you need some inspirations regarding your design.
-- [GraphProtocol Aragon Subgraph](https://github.com/graphprotocol/aragon-subgraph). TheGraph allows you to index and search through Ethereum events and IPFS data. It may (or may not) be a good starting point to offer decentralized searchability to APM registries.
+- [GraphProtocol Aragon Subgraph](https://github.com/graphprotocol/aragon-subgraph). TheGraph allows you to index and search through Ethereum events and IPFS data. It may (or may not) be a good starting point to offer decentralized searchability to aragonPM registries.
 
 ## T1 - NPM backend
 
-For now, everyone uses NPM, right? So what if could we create an NPM backend serving APM-hosted packages? The goal of this topic is to develop an enhanced version of [APM serve](https://github.com/aragon/apm-serve) complying to the [NPM Registry API](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md).
+For now, everyone uses NPM, right? So what if could we create an NPM backend serving aragonPM-hosted packages? The goal of this topic is to develop an enhanced version of [aragonPM serve](https://github.com/aragon/apm-serve) complying to the [NPM Registry API](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md).
 
 
 ### Resources
 
-- [APM serve](https://github.com/aragon/apm-serve). A Web 2.0 server for Web 3.0 APM hosted dApps and packages.
+- [aragonPM serve](https://github.com/aragon/apm-serve). A Web 2.0 server for Web 3.0 aragonPM hosted dApps and packages.
 - [NPM Registry API](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md). The API any NPM registry must comply to.
 
 
