@@ -97,11 +97,11 @@ Submissions will be graded across the following equally-weighted criteria:
 3. Difficulty
 4. Design
 
-## Prizes per topic
+## Prizes
 
-**Winners.** 1000 ANT ???
+**First place.** 1000 ANT + 1000 DAI
 
-**Runners up.** ???
+**Runner up.** 500 ANT + 500 DAI
 
 # Thanks
 
