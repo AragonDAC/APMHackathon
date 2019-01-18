@@ -49,7 +49,7 @@ For now, everyone uses NPM, right? So what if could we create an NPM backend ser
 
 # Process
 
-This hackathon will _start remotely on January, 20th 2019 and end up on site January, 30th 2019_ - on the last day of [Aracon](https://aracon.one). It is thus aimed at _people actually attending Aracon_ (even though it starts a week before for practical reasons).
+This hackathon will _start remotely on January, 20th 2019 and end up on site January, 30th 2019_ - on the last day of [AraCon](https://aracon.one). It is thus aimed at _people actually attending AraCon_ (even though it starts a week before for practical reasons).
 
 ## Submission Guidelines
 
@@ -67,17 +67,17 @@ Once you know what you wanna work on - and with who you wanna work on - open a n
 
 That's when it comes to stop sleeping and start buidling. Use the issue you created in step 2 to let others know where your project lives. And remember that whatever you are working on, your project should include an **Open Source License** of [some form](https://opensource.org/licenses), and be accessible to everyone after the submission deadline.
 
-### 4. Gather at Aracon
+### 4. Gather at AraCon
 
-We will have a entire room dedicated to this hackathon on the first day of [Aracon](https://aracon.one): January, 30th 2019. That's why we require that _at least one person per team actually attend Aracon to 'represent' its team there_. Come here and gather with your team: use that f2f day to polish your project and make it ready for submission.
+We will have a entire room dedicated to this hackathon on the first day of [AraCon](https://aracon.one): January, 29th 2019. That's why we require that _at least one person per team actually attend AraCon to 'represent' its team there_. Come here and gather with your team: use that f2f day to polish your project and make it ready for submission.
 
 ### 5. Fork and PR
 
 Once you're ready, fork this repository, add a markdown file following [this template](https://github.com/AragonDAC/APMHackathon/blob/master/submissions/exampleProject.md) inside the `submissions` folder, and open a PR. These PRs must be opened before **January 30, 00:00 CET** to leave our jury enough time to review everyone's code. *Opening a Pull Request establishes your project as an "official" submission.*
 
-### 5. Enjoy the rest of Aracon
+### 5. Enjoy the rest of AraCon
 
-You can now breeze and go back to an (almost) normal life. Enjoy the wonderful [talks / panels](https://aracon.one/agenda) of Aracon and wait for the winners to be announced!
+You can now breathe and go back to an (almost) normal life. Enjoy the wonderful [talks / panels](https://aracon.one/agenda) of AraCon and wait for the winners to be announced!
 
 ## Dates
 
